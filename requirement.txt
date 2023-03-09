@@ -1,0 +1,6 @@
+cmake==3.25.2
+Django==3.2.8
+django-sso==2.0.0
+dlib @ file:///C:/Users/Ruler/Downloads/Install-dlib-main/Install-dlib-main/dlib-19.19.0-cp38-cp38-win_amd64.whl
+firebase-admin==6.1.0
+requests==2.28.2
